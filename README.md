@@ -1,8 +1,6 @@
-![logo](https://github.com/TANNU-CHAUHAN20/TANNU_CHAUHAN20/blob/main/README.md)
-<h1 align="center">Hi 👋, I'm Tannu Chauhan</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
 
-<img align="right" alt="coding"width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREqPSbgnxknW6FFS9xcKRK738mAs5KRXL_Jg&s)">
+<h1 align="center">Hi 👋, I'm Tannu Chauhan</h1>
+<h3 align="center">A passionate Data Analyst from India</h3
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tannu-chauhan20&label=Profile%20views&color=0e75b6&style=flat" alt="tannu-chauhan20" /> </p>
 
