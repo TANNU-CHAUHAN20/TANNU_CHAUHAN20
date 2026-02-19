@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/tanvi-chauhan](https://www.linkedin.com/in/tanvi-chauhan)
-
 - 📫 How to reach me **ctanvi126@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
